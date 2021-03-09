@@ -1,4 +1,7 @@
 
+# Signal comparasion between the dev5 (rev0 schematic) and the Delsys Bagnoli-2
+
+
 
 ```python
 import numpy as np
