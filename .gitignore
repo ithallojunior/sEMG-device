@@ -16,3 +16,6 @@ Thumbs.db
 
 # pyenv
 .python-version
+
+# ipynb
+comparison/.ipynb_checkpoints/
